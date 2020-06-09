@@ -2,6 +2,7 @@
 
 QuantumVITAS (Quantum Visualization Interacting Toolkit for Ab-initio Simulations) is a graphical user interface designed for ab-initio simulation software Quantum ESPRESSO, aiming at making ab-initio simulations easily accessible and intuitively controllable in various operating systems.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2daad001591145dd96b5c631d8669c9f)](https://app.codacy.com/gh/quantumVITAS/quantumVITAS?utm_source=github.com&utm_medium=referral&utm_content=quantumVITAS/quantumVITAS&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/quantumVITAS/quantumVITAS.svg?branch=master)](https://travis-ci.org/quantumVITAS/quantumVITAS)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
