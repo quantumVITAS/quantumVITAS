@@ -29,7 +29,7 @@
           <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
-            <Label text="Set all to deault" GridPane.halignment="RIGHT" />
+            <Label text="Set all to default" GridPane.halignment="RIGHT" />
             <CheckBox fx:id="checkResetAll" mnemonicParsing="false" GridPane.columnIndex="1" />
             <Button mnemonicParsing="false" text="i" GridPane.columnIndex="2" />
          </children>
