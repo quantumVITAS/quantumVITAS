@@ -28,7 +28,7 @@
         </rowConstraints>
          <children>
             <CheckBox fx:id="checkResetAll" mnemonicParsing="false" GridPane.columnIndex="1" />
-            <Label text="Reset all to deault" GridPane.halignment="RIGHT" />
+            <Label text="Reset all to default" GridPane.halignment="RIGHT" />
             <Button fx:id="infoResetAll" mnemonicParsing="false" text="i" GridPane.columnIndex="2" />
          </children>
       </GridPane>
